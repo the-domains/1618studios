@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.2747551
+  lightness: 0.7679251
+  brandStrength: 0.8752973
+  brandColors:
+    - '#0C110D'
+    - '#185131'
+    - '#15D28A'
+    - '#9AFD65'
+    - '#FEFEFE'
+  rhythmicContrast: 0.592262
+typography_spectrum: 0.3086003
+name: 1618Studios
