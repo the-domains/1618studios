@@ -1,4 +1,4 @@
-layout_spectrum: 0
+typography_spectrum: 0.0682968
 color:
   saturation: 0.2183811
   lightness: 0.7679251
@@ -10,7 +10,8 @@ color:
     - '#9AFD65'
     - '#FEFEFE'
   rhythmicContrast: 0.7774031
-typography_spectrum: 0.0682968
-name: 1618Studios
+layout_spectrum: 0
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d400d9-b0d0-4c83-a996-d76b80d2e9bf.png
+name: 1618Studios
+description: 'working with divine. '
