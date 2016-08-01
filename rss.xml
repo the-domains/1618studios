@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[1618Studios]]></title>
+        <description><![CDATA[1618Studios]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Aug 2016 03:01:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1618]]></title>
+            <description><![CDATA[<article><h1>1618</h1><p>The Golden Ration or Golden Number = 1.618… this number too is everywhere in nature, evidence for a higher order, a ratio for beauty and energy efficiency, the optimum for space utilization in nature and the intervals between notes, … you can find it everywhere and it enables life!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26254f3f-e506-4cd9-9fe5-3cf11e87b021.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9c98190-420a-45d7-8fe7-6e7bf9623ffe.png</link>
+            <guid isPermaLink="false">53269fa4-8f93-43b5-bf9b-dbf922ad257d</guid>
+            <pubDate>Mon, 01 Aug 2016 03:01:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
